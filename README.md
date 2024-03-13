@@ -1,5 +1,5 @@
 
-# Trabalho feito em React Naive
+# Trabalho feito em React Native
 
 ## Grupo: Aléxis Cordeiro, Lucas Machado, Bruno Ribeiro e José Thiago
 
